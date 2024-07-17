@@ -1,0 +1,76 @@
+body{
+    background-image:url(./Image/background\ image.jpg);
+}
+.header{
+    background-image:url(./header-img.jpg);
+    background-position: center;
+    
+}
+ h2{
+    color:white bold ;
+    text-align: center;
+    
+    
+}
+
+.nav-item dropdown{
+    text-decoration: none;
+}
+.bg-body-tertiary{
+    display: flex;
+    background: rgba(181, 29, 29, 0.5);
+}
+.search{
+text-align: center;
+color: white;
+align-items: center;
+justify-content: center;
+padding-left: 50px;
+padding-top: 100px;
+font-weight: 200px;
+}
+.searchbar{
+margin-left: 300px;
+margin-right:300px;
+}
+.class{
+width:170px;
+}
+.aman{
+    background-color: #e50914;
+    border: none;
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer; 
+}
+.my-5 button{
+    background-color:White;
+    border: none;
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.footer{
+    background-color:rgba(110, 107, 107, 0.5);
+    padding: 20px 0;
+}
+.footer h5 {
+    color: white;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+.carousel-item {
+    display: flex;
+}
+.corousel{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
